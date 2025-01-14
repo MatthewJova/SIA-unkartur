@@ -7,7 +7,7 @@ tim:
 Gambar:
 - ![Login](login.png)
 - ![Tabel Hak Akses](hak_akses.png)
-- ![Grafik Jumlah Stress](grafik_jum_stress.png)
+- ![Grafik Jumlah Stress](grafik_jum_stres.png)
 - ![Tabel Hasil Tes Admin](hasil_tes_adm.png)
 - ![Soal Tes](soal_tes.png)
 - ![Hasil Tes Individu](hasil_tes.png)
